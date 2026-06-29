@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/29
+seq: 29
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 睽兌下離上睽火澤二象氣運非合陰消陽長取象何比惟陽是從陰陽動靜剛柔分焉先睽後合其消通也文明上照幽暗分矣易云見豕負塗載鬼一車先張之弧後說之弧遇雨則吉群疑亡也與離為飛伏諸侯立九四為世初元世為應建始甲午至己亥積筭起己亥至戊戌五星從位起歲星參宿從位降己酉分氣候三十六金火二運合土宮配吉凶於歲時六五陰柔處文明九二四得立權臣陰陽相盪六位逆遷變離入乾健於外象坎入履次降入天澤履卦
+  hash: sha256:5d6fa467e02c186503eb2b06d4a4ecf22de9613254d0a4748c6b7f124009d161
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_029-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:db1c4411fa2b418f2dc43a67c625ac73388cce3b92fc1e856fe43a3e6c5e5c66

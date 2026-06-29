@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 豐離下震上豐雷火交動剛柔散氣積則暗動乃明易云豐其屋蔀其家窺其戶闃其無人三歲不覿乃凶火木分象配於積陰與震為飛伏陰處至尊為世大夫見應君臣相暗世則可知臣強君弱為亂世之始建生戊子至癸巳雷與火震動曰豐宜日中夏至積陰生豐當正應吉凶見矣積算起癸巳至壬辰周而復始五星從位起太白壁宿從位降庚申分氣候二十八上木下火氣稟純陽陰生於內陽氣雜正性潰亂極乃反為游魂入積陰陰陽升降反歸於本變體於有無吉凶之兆或見於有或見於無陰陽之體不可執一為定象於八卦陽蕩陰陰蕩陽二氣相感而成體或隱或顯故係云一陰一陽之謂道外卦震降陰入明夷
+  hash: sha256:fd9b96dfe4168c701b522dfa0e552f039025ede5d27d4b4ed82af9af81c9a135
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_022-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:5d47c8a73f5d75c1a33b9c59458fef81b6a1f405099a748fc328514aab309a3a

@@ -1,0 +1,70 @@
+canonical_identifier: bkk:krp/KR3g0030/krp/v1
+canonical_location: https://kanripo.org/bkk/KR3g0030/krp/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 京氏易傳
+  date: '2015-09-10 22:50:21.411396'
+  source:
+    repository: kanripo
+    path: KR3g0030
+  base_edition: SBCK
+  edition:
+    short: krp
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3g0030_000-krp.yaml, hash: 'sha256:c0347b7307e45270b919a5dfdb8706e4a452011be408894231d2b3bb1f0532b6'}
+  - {seq: 1, filename: KR3g0030_001-krp.yaml, hash: 'sha256:f9a77c02186c6df77675c7d23451250ee6a8fe69cedabd5586c1445a06e29740'}
+  - {seq: 2, filename: KR3g0030_002-krp.yaml, hash: 'sha256:23f78584451e004270a5484681275c651676fbad60d487da7c4a6e38c82e41d9'}
+  - {seq: 3, filename: KR3g0030_003-krp.yaml, hash: 'sha256:843684367b1a1bf654b5caa9a05b65c6379dd2fdd4675e74c6a6ea2fc7ad1ade'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3g0030_000-krp.markers.yaml, hash: 'sha256:0d8893091a60d6147690560bba4a7c782fb788660d1e5bb0a17866054c51304c'}
+  - {seq: 1, role: markers, filename: assets/KR3g0030_001-krp.markers.yaml, hash: 'sha256:156f8d5c19c2a270682884bd589f99f26b25092bb606dc50266da981ca78afc5'}
+  - {seq: 2, role: markers, filename: assets/KR3g0030_002-krp.markers.yaml, hash: 'sha256:6684b2b1de9fc289469ca4c2bf083c3a9af3db2ee139acf9d48be0b8370a26ce'}
+  - {seq: 3, role: markers, filename: assets/KR3g0030_003-krp.markers.yaml, hash: 'sha256:bcd3b4cf2087c0c871c0e6feea2c3abbb69d8e22af7ac4acb350b2588b071ade'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3g0030_SBCK_000-1a
+    span:
+    - body
+    - 0
+    - 83
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3g0030_SBCK_001-1a
+    span:
+    - body
+    - 0
+    - 8429
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3g0030_SBCK_002-1a
+    span:
+    - body
+    - 0
+    - 9295
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3g0030_SBCK_003-1a
+    span:
+    - body
+    - 0
+    - 2966
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:1a17bf972ae57ebe29e44b25aee1b81e199527ff336a1aa062a9d851fffcd4f8

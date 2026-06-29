@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 井巽下坎上井陰陽通變不可革者井也井道以澄清不竭之象而成於井之德也易云井者德之基又云往來井井見功也改邑不改井德不可渝也與坎為飛伏九五處至尊應用見本象建辛巳至丙戌積筭起丙戌至乙酉周而復始五星從位起歲星尾宿從位降戊戌坎下見風險於前內外相資益於君賢人有位君子不孤傳曰德不孤必有鄰氣候所象定數於二十八天地之數分於人事吉凶之兆定於陰陽陰生陽消陽生陰滅二氣交互萬物生焉震至於井陰陽代位至極則反與巽為終退復於本故曰游魂為大過
+  hash: sha256:869a31de25233d91ad92f62a28a2571209ee973bd6c4bd368c9ba0a0368a79fb
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_014-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:c3244cd763f39ebfd8d5e43fc8cc58bc97dd1a9430dbf5838e7da13d21298215

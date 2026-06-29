@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 節兌下坎上節水居澤上澤能積水陽止於陰故為節節者止也陽盪陰而積實居中悅內而險於前陰陽進退金水交運與兌為飛伏元士立元首見應諸侯建起甲申至己丑積筭起己丑至戊子周而復始五星從位起太陰女宿從位降丁巳金上見水本位相資二氣交爭失節則嗟易云不節若則嗟若分氣候二十八中男入兌少女分盪入陰中位見陽升降見長男次入水雷屯
+  hash: sha256:6626fd387b6d5bb72341c7547b026b81bc621a55180f64da83eba314015ccd02
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_018-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:63f64782b803d8d9fe60bb3ff625fbe28c2ae74d4dd8fa744b578ba95bc63918

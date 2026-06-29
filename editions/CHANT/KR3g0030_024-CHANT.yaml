@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 師坎下坤上師變離入陰陽於正道復本歸坎陽在其中矣處下卦之中為陰之主利於行師易云師者眾也眾陰而宗於一一陽得其貞正也與離為飛伏陰陽相薄剛柔遷位世主三公應為宗廟建始壬辰至丁酉積筭起丁酉至丙申周而復始五星從位起歲星婁宿從位降戊午分氣候二十八地下有水復本位六五居陰處陽位九二貞正能為眾之主不潰於眾易云師貞丈人吉入卦始於坎陰陽相盪反至於極則歸本坎中男升降得失吉凶悔吝策於六爻六爻之設出於蓍蓍之得象而卦生積筭起於五行五行正則吉極則凶吉凶之象顯於天地人事日月歲時坎之變於艮艮為少男少男處卦之末為極也次入艮卦
+  hash: sha256:afbe067fe5750a1d2ca897d6cfd2d1cf894fb7434d7a2ccc349e0f53f8a41ae8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_024-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:7bbf04f3b4c67570959a8b4b60b8ff989dc3ad63c9ec4a8330f79d8d25d9cae4

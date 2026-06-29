@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 比坤下坎上比反本復位陰陽相定六爻交互一氣在也水在地上九五居尊萬民服也比親於物物亦附焉原筮於宗歸之於衆諸侯列土君上崇之奉于宗祧盟契無差邦必昌矣與乾為飛伏歸魂六之三公居世應上六宗廟建始癸卯至戊申積算起熒惑房宿從位降乙卯分氣候二十八陰道將復以陽為主一陽居尊群陰宗之六爻交分吉凶定矣地道之義妻道同也臣之附君比道成也歸魂復本陰陽相成萬物生也故曰坤生三女巽離兌分長中下以陽求陰乾之巽為長女
+  hash: sha256:e28c28256d33232b57944d502043f6607024051bd91e71fd5532123109f399b4
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_040-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:0dc09784360f0a68a92134d225de1e68ab81d78454c6bf1024658b93253a225c

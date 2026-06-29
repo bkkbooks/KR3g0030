@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 坎坎下坎上坎積陰以陽處中柔順不能履重剛之險故以剋克柔而履險而曰陽是以坎為屬中男分北方之卦也與離為飛伏世立宗廟居於陰位比近九五金於坎道遠於禍害三公居應亦為陰暗成坎之德在於九五九二也建起戊寅至癸未積算起癸未至壬午周而復始五星從位起太白牛宿從位降戊子歲數運數三十六內外俱坎是重剛之位易曰坎陷也震以陽居初能震動於物能為動主坎以陽居中為重剛之主故以坎為險陽變陰成於險道今以陰變陽止於為節
+  hash: sha256:e649167d38a3dc45dd5d48ea0fc2345880bf6417a07fbb06d68fc76a80033ea9
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_017-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:328a893a2f1dc606a5884d28884627d1699f9ac09ab369a8ab9af76904b78fc2

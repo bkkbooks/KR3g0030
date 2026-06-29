@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/13
+seq: 13
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 升巽下坤上升陽升陰而陰道凝盛未可便進漸之曰升升者進也卦雖陰而取象於陽故曰以陽用事與坤為飛伏諸侯在世元士為應侯建庚辰至乙酉積算起乙酉至甲申周而復始五星從位起太陰心宿入位降癸丑土下見木內外俱順動陰陽而長歲時人事配吉凶發乎動易繫云吉凶悔吝生乎動氣候配象數位三十六自下升高以至於極至極而反以修善道而成其體陰道革入陽為坎水與風見井
+  hash: sha256:4c8c2e69c02e50fa441cb6830fde12ab8a70947412f1fc81213b113c4eca23d1
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_013-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:a70422de76043f5c80f28e61781a3de4a69a7de2c0972a16fd47cf452b60282f

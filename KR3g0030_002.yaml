@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 姤巽下乾上姤陰爻用事金木互體天下風行曰姤姤遇也易曰陰遇陽與巽為飛伏元士居世尊就卑定吉凶只取一爻之象九四諸侯堅剛在上陰氣處下易云繫于金柅巽積陰入陽辛壬降內外象建庚午至乙亥積算起乙亥水至丙戍土周而復始五星從位起太白井宿從位入辛丑建午起坤宮初六爻易云履霜堅冰至建亥龍戰于野配與人事為腹為母於類為馬易云行地無疆內巽為風乾為天天下有風行君子以號令告四方天風氣象三十六候木入金為始陰不能制於陽附於金柅易之柔道牽也五行升降以時消息陰蕩陽降入遁
+  hash: sha256:e88cee38d6e4617625add2cc9b9724387856335708aea259896ae82f551e5ee1
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_002-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:b52691df0dce6ee72a0a5f6d435106ce57b904f33689f62e88ad7c3fc9486349

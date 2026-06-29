@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/49
+seq: 49
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 離離下離上離本於純陽陰氣貫中稟於剛健見乎文明故易曰君子以繼明照于四方陽為陰主陽伏於陰也是以體離為日為火始於陽象而假以陰氣純用剛健不能明照故以陰氣入陽柔於剛健而能順柔中虛見火象也與坎為飛伏宗廟為世應上見三公建始戊申至癸丑積筭起癸丑至壬子周而復始土水二象入離火位五星從位起歲星室宿從位降己巳火分氣候三十六內外二象配於火土為祥互見悅順著於明兩陰陽升降入初九適變從陰止於艮象吉凶從位起至六五休廢在何爻次降入火山旅卦
+  hash: sha256:004325be87b0584a8d42984224c48d33e4b2122b7802312426237dbc3afd88ff
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_049-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:3a35d35f00f1e370a75e369f1fba63c1601108d468cea19f24b299d6d5e8767e

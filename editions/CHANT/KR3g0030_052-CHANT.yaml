@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未濟坎下離上未濟陰陽二位各復本體六爻交互異於正象故取未濟名之世應得位陰陽殊塗性命不交吉凶列矣與坎為飛伏六三三公為世應宗廟建始辛亥至丙辰積筭起丙辰至丁卯水土二象入離坎五星從位起太白婁宿從位降戊午火分氣候二十八水火二象坎離相納受性本異立位見隔睽于上下吉凶生也受刑見害氣不合也陰陽升降入於外卦適離為艮上著於象天地盈虛與時消息其大也次降入山水蒙卦
+  hash: sha256:3e8199e3e5df6f356ce17c473ed297c3cc66f14fcc030e25028e68181e49e049
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_052-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:a5cecc817b0550ef3db678a1dcb9f96fc21954c908440b8b3aeda6fd12b795e8

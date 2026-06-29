@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/60
+seq: 60
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 咸艮下兌上咸山下有澤虛己畜物陽中積陰感於物也陽下於陰男女之道內外相應感類於象也六二待聘九五見召二氣交感夫婦之道體斯合也易曰咸感也利取女吉與艮為飛伏九三三公居世上六宗廟為應建始戊午至癸亥積筭起癸亥至壬戌周而復始火土入艮兌五星從位起熒惑柳宿從位降丙申分氣候三十六土上見金母子氣合陰陽相應剛柔定位吉凶隨爻受氣出則吉刑則凶陰陽等降入外險止於內象為山水蹇卦
+  hash: sha256:6f69f6d993c1dbab03b579455c503b8f4b379e5d53e1ada2d10c497b031f8694
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_060-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:f3f49fc5bbb8ee76f3467c9d3c034f4c28789afbdb717f34e7da0f680c1ea200

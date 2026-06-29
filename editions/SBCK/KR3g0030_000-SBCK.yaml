@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3g0030/SBCK/v1/juan/0
+seq: 0
+front:
+  text: 京氏易傳目録
+  hash: sha256:22b8114834bb5c6b57fe3a1a56d00c2c0a6237a1e5878a66651f068b34fb9864
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3g0030_SBCK_000-1a}
+body:
+  text: 上卷乾姤遯否觀剥􅀳大有震豫解􅁪升井大過隨坎節屯旣濟革豐明夷師艮賁大畜損睽履中孚漸中卷坤復臨㤗大壯夬需比巽小畜家人益无妄噬嗑頥蠱離旅􅂦未濟蒙渙訟同人兌困萃咸蹇謙小過歸妹
+  hash: sha256:29832e085c9da7d2aa322f50b85e16316163b25c97cffe677d7b9667b2ef0960
+metadata:
+  title: 京氏易傳
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-10 22:50:21.411396'
+  source:
+    repository: kanripo
+    path: KR3g0030/KR3g0030_000.txt
+hash: sha256:1623371c4b9e8cd53be4f51ff2ce0001bd20e067a76929b9d4dc0b50196169e8

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/55
+seq: 55
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 訟坎下乾上訟生生不絶之謂道六位不居返為游魂離宮八卦以訟為反四天與水違曰訟五行所占六位定吉凶非所背順為正金與水二氣相資父子之謂健與險內外相激家國之義出象故以則斯可驗矣與巽為飛伏諸侯居世元士見應建始戊午至癸亥積算起癸亥至壬戌周而復始火水入卦五星從位起熒惑畢宿從位降壬午火分氣候三十六天下見水陰陽相背二氣不交物何由生吉凶宗於上九進退見於九四二居中履正得其宜也陰陽升降復歸內象次降天火同人卦
+  hash: sha256:75f72f2f7019a459e9a7f5d153f52a05d5b6433e992d9bde74846efdeccf64ca
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_055-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:129053537a24a2a7524daddf139e66c7deb9d24be430dacc6a17a0e85ec58b2e

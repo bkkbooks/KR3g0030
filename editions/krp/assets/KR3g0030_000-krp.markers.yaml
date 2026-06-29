@@ -1,0 +1,127 @@
+canonical_identifier: bkk:krp/KR3g0030/krp/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3g0030_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3g0030_SBCK_000-1a01}
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書子部七}
+  - {type: page-break, offset: 0, content: '', id: KR3g0030_WYG_000-1a, image: WYG0808/WYG0808-0439a.png}
+  - {type: variant, offset: 4, length: 0, content: '', WYG: 術數類四占卜之屬提要臣等謹案京氏易傳三卷漢京房撰吳陸績註房本姓李吹律自定為京氏字君明東郡頓邱人受易于焦延夀元帝時以言災異得幸為石顯等所嫉出為魏郡太守卒以譖誅事迹具漢書本傳績有易注已著録房所著有易傳三卷周易章句十巻周易錯卦十巻周易妖占十二卷周易占事十二巻周易守株三巻周易飛候九卷又六巻周易飛候六日七分八巻周易四時候四卷周易混沌四卷周易委化四巻周易逆刺占灾異十二巻易傳積算法襍占條例一卷今惟易傳存考漢志作十一篇文獻通考作四巻均與此本不同然漢志所載古書卷帙多與今互異不但此編通考所謂四巻者以晁陳二家書}
+  - {type: page-break, offset: 4, content: '', id: KR3g0030_WYG_000-1b, image: WYG0808/WYG0808-0439b.png}
+  - {type: page-break, offset: 4, content: '', id: KR3g0030_WYG_000-2a, image: WYG0808/WYG0808-0440a.png}
+  - {type: variant, offset: 5, length: 1, content: 録, WYG: 考之盖以雜占條例一卷合于易傳三巻共為四卷亦不足疑惟晁氏以易傳為即錯卦雜占條例為即逆占灾異則未免臆斷無據耳其書雖以易傳為名而絶不詮釋經文亦絶不附合易義}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3g0030_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3g0030_SBCK_000-1a02}
+  - {type: indent, offset: 0, content: 　, id: KR3g0030_krp_000-bkkind1}
+  - {type: variant, offset: 1, length: 39, content: 卷乾姤遯否觀剥晉大有震豫解恒升井大過隨坎節屯旣濟革豐明夷師艮賁大畜損睽履中孚漸, WYG: 巻}
+  - {type: 'kr:newline', offset: 2, content: '
+
+      ', id: KR3g0030_krp_000-bkkkrnewl2}
+  - {type: line-break, offset: 2, content: '', id: KR3g0030_SBCK_000-1a03}
+  - {type: indent, offset: 2, content: 　　, id: KR3g0030_krp_000-bkkind2}
+  - {type: indent, offset: 3, content: 　, id: KR3g0030_krp_000-bkkind3}
+  - {type: indent, offset: 4, content: 　, id: KR3g0030_krp_000-bkkind4}
+  - {type: indent, offset: 5, content: 　, id: KR3g0030_krp_000-bkkind5}
+  - {type: indent, offset: 6, content: 　, id: KR3g0030_krp_000-bkkind6}
+  - {type: indent, offset: 7, content: 　, id: KR3g0030_krp_000-bkkind7}
+  - {type: indent, offset: 8, content: 　, id: KR3g0030_krp_000-bkkind8}
+  - {type: variant, offset: 8, length: 1, content: 晉, SBCK: 􅀳}
+  - {type: indent, offset: 9, content: 　, id: KR3g0030_krp_000-bkkind9}
+  - {type: 'kr:newline', offset: 11, content: '
+
+      ', id: KR3g0030_krp_000-bkkkrnewl3}
+  - {type: line-break, offset: 11, content: '', id: KR3g0030_SBCK_000-1a04}
+  - {type: indent, offset: 11, content: 　　, id: KR3g0030_krp_000-bkkind10}
+  - {type: indent, offset: 12, content: 　, id: KR3g0030_krp_000-bkkind11}
+  - {type: indent, offset: 13, content: 　, id: KR3g0030_krp_000-bkkind12}
+  - {type: indent, offset: 14, content: 　, id: KR3g0030_krp_000-bkkind13}
+  - {type: variant, offset: 14, length: 1, content: 恒, SBCK: 􅁪}
+  - {type: indent, offset: 15, content: 　, id: KR3g0030_krp_000-bkkind14}
+  - {type: indent, offset: 16, content: 　, id: KR3g0030_krp_000-bkkind15}
+  - {type: indent, offset: 17, content: 　, id: KR3g0030_krp_000-bkkind16}
+  - {type: indent, offset: 19, content: 　, id: KR3g0030_krp_000-bkkind17}
+  - {type: 'kr:newline', offset: 20, content: '
+
+      ', id: KR3g0030_krp_000-bkkkrnewl4}
+  - {type: line-break, offset: 20, content: '', id: KR3g0030_SBCK_000-1a05}
+  - {type: indent, offset: 20, content: 　　, id: KR3g0030_krp_000-bkkind18}
+  - {type: indent, offset: 21, content: 　, id: KR3g0030_krp_000-bkkind19}
+  - {type: indent, offset: 22, content: 　, id: KR3g0030_krp_000-bkkind20}
+  - {type: indent, offset: 23, content: 　, id: KR3g0030_krp_000-bkkind21}
+  - {type: indent, offset: 25, content: 　, id: KR3g0030_krp_000-bkkind22}
+  - {type: indent, offset: 26, content: 　, id: KR3g0030_krp_000-bkkind23}
+  - {type: indent, offset: 27, content: 　, id: KR3g0030_krp_000-bkkind24}
+  - {type: indent, offset: 29, content: 　, id: KR3g0030_krp_000-bkkind25}
+  - {type: 'kr:newline', offset: 30, content: '
+
+      ', id: KR3g0030_krp_000-bkkkrnewl5}
+  - {type: line-break, offset: 30, content: '', id: KR3g0030_SBCK_000-1a06}
+  - {type: indent, offset: 30, content: 　　, id: KR3g0030_krp_000-bkkind26}
+  - {type: indent, offset: 31, content: 　, id: KR3g0030_krp_000-bkkind27}
+  - {type: indent, offset: 32, content: 　, id: KR3g0030_krp_000-bkkind28}
+  - {type: indent, offset: 34, content: 　, id: KR3g0030_krp_000-bkkind29}
+  - {type: indent, offset: 35, content: 　, id: KR3g0030_krp_000-bkkind30}
+  - {type: indent, offset: 36, content: 　, id: KR3g0030_krp_000-bkkind31}
+  - {type: indent, offset: 39, content: 　, id: KR3g0030_krp_000-bkkind32}
+  - {type: 'kr:newline', offset: 40, content: '
+
+      ', id: KR3g0030_krp_000-bkkkrnewl6}
+  - {type: line-break, offset: 40, content: '', id: KR3g0030_SBCK_000-1a07}
+  - {type: indent, offset: 40, content: 　, id: KR3g0030_krp_000-bkkind33}
+  - {type: 'kr:newline', offset: 42, content: '
+
+      ', id: KR3g0030_krp_000-bkkkrnewl7}
+  - {type: line-break, offset: 42, content: '', id: KR3g0030_SBCK_000-1a08}
+  - {type: indent, offset: 42, content: 　　, id: KR3g0030_krp_000-bkkind34}
+  - {type: variant, offset: 42, length: 0, content: '', WYG: 以八卦分八宫每宫一純卦統七變卦而註其世應飛伏游魂歸魂諸例下卷首論聖人作易揲蓍布卦次論納甲法次論二十四氣候配卦與夫天地人鬼四易父母兄弟妻子官鬼等爻龍德虎形天官地官與五行生死所寓之類盖後來錢卜之法實出於此故項安世謂以京易考之世所傳火珠林即其遺法以三錢擲之兩背一面為坼兩面一背為單俱面為交俱背為重此後人務趋㨗徑以為卜肆之便而本意尚可考其所異者不以交重為占自以世為占故其占止于六十四爻而不能盡三百八十四爻之變張行成亦謂衛元嵩元包其法合于火珠林火珠林之用祖于京房陸德明經典釋文乃於周易六十四卦之下悉註某宫一世二世三世四世游魂歸魂諸名引而附合於經義誤之甚矣乾隆四十六年十二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀欽定四庫全書京氏易傳卷上漢京房撰乾下乾上乾純陽用事象配天屬金與}
+  - {type: page-break, offset: 42, content: '', id: KR3g0030_WYG_000-2b, image: WYG0808/WYG0808-0440b.png}
+  - {type: page-break, offset: 42, content: '', id: KR3g0030_WYG_000-3a, image: WYG0808/WYG0808-0440c.png}
+  - {type: page-break, offset: 42, content: '', id: KR3g0030_WYG_000-3b, image: WYG0808/WYG0808-0440d.png}
+  - {type: page-break, offset: 42, content: '', id: KR3g0030_WYG_001-1a, image: WYG0808/WYG0808-0441a.png}
+  - {type: indent, offset: 43, content: 　, id: KR3g0030_krp_000-bkkind35}
+  - {type: variant, offset: 43, length: 0, content: '', WYG: 為飛伏居世壬戌土癸酉金易云用九見羣龍无首吉純陽用九之徳九三三公為應肖乾乾夕惕之憂甲壬配外内二象乾為天地之首分甲壬入乾位積算起己巳火至戊辰土周而}
+  - {type: indent, offset: 44, content: 　, id: KR3g0030_krp_000-bkkind36}
+  - {type: variant, offset: 44, length: 39, content: 臨㤗大壯夬需比巽小畜家人益无妄噬嗑頥蠱離旅鼎未濟蒙渙訟同人兌困萃咸蹇謙小過歸妹, WYG: 始吉凶之兆積年起月積日起時積時起卦入本宫五星從位起鎮星土星入西方麗西北居壬戌為伏位參宿從位起壬戌壬戌}
+  - {type: page-break, offset: 44, content: '', id: KR3g0030_WYG_001-1b, image: WYG0808/WYG0808-0441b.png}
+  - {type: indent, offset: 45, content: 　, id: KR3g0030_krp_000-bkkind37}
+  - {type: indent, offset: 46, content: 　, id: KR3g0030_krp_000-bkkind38}
+  - {type: indent, offset: 48, content: 　, id: KR3g0030_krp_000-bkkind39}
+  - {type: indent, offset: 49, content: 　, id: KR3g0030_krp_000-bkkind40}
+  - {type: indent, offset: 50, content: 　, id: KR3g0030_krp_000-bkkind41}
+  - {type: 'kr:newline', offset: 51, content: '
+
+      ', id: KR3g0030_krp_000-bkkkrnewl8}
+  - {type: line-break, offset: 51, content: '', id: KR3g0030_SBCK_000-1a09}
+  - {type: indent, offset: 51, content: 　　, id: KR3g0030_krp_000-bkkind42}
+  - {type: indent, offset: 54, content: 　, id: KR3g0030_krp_000-bkkind43}
+  - {type: indent, offset: 56, content: 　, id: KR3g0030_krp_000-bkkind44}
+  - {type: indent, offset: 57, content: 　, id: KR3g0030_krp_000-bkkind45}
+  - {type: indent, offset: 59, content: 　, id: KR3g0030_krp_000-bkkind46}
+  - {type: indent, offset: 61, content: 　, id: KR3g0030_krp_000-bkkind47}
+  - {type: indent, offset: 62, content: 　, id: KR3g0030_krp_000-bkkind48}
+  - {type: 'kr:newline', offset: 63, content: '
+
+      ', id: KR3g0030_krp_000-bkkkrnewl9}
+  - {type: page-break, offset: 63, content: '', id: KR3g0030_SBCK_000-1b}
+  - {type: 'kr:newline', offset: 63, content: '
+
+      ', id: KR3g0030_krp_000-bkkkrnewl10}
+  - {type: line-break, offset: 63, content: '', id: KR3g0030_SBCK_000-1b01}
+  - {type: indent, offset: 63, content: 　　, id: KR3g0030_krp_000-bkkind49}
+  - {type: variant, offset: 65, length: 1, content: 鼎, SBCK: 􅂦}
+  - {type: 'kr:newline', offset: 73, content: '
+
+      ', id: KR3g0030_krp_000-bkkkrnewl11}
+  - {type: line-break, offset: 73, content: '', id: KR3g0030_SBCK_000-1b02}
+  - {type: indent, offset: 73, content: 　　, id: KR3g0030_krp_000-bkkind50}
+  - {type: indent, offset: 77, content: 　, id: KR3g0030_krp_000-bkkind51}
+  - {type: 'kr:newline', offset: 83, content: '
+
+      ', id: KR3g0030_krp_000-bkkkrnewl12}
+  back: []
+hash: sha256:0d8893091a60d6147690560bba4a7c782fb788660d1e5bb0a17866054c51304c

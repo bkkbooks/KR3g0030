@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/61
+seq: 61
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蹇艮下坎上蹇利於西南民道通也水在山上蹇險難進陰陽二氣否也陰待於陽柔道牽也險而逆止陽固陰長處能竭至誠於物為合蹇道亨也易曰王臣蹇蹇匪躬之故與坎為飛伏六四諸侯居世初六元士在應建始己未至甲子積筭起甲子至癸亥周而復始土水入坎艮五星從位起鎮星星宿從位降戊申分氣候其數三十六土上見水柔而和此五行相推二氣合取象則陰陽相背也九五適變入坤宮宮比得朋陰氣合也坎降入地山謙
+  hash: sha256:695756ad14f39e9cd2fc75fc99eccd461fa0f840f0dc6fb26d2578b853cd84fd
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_061-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:97ee55d1203e2c75ffc0c0724124df7806e4aac4b84305e12c11e6931175cb03

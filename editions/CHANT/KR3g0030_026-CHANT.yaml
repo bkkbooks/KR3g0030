@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賁離下艮上賁泰取象上六柔來反剛九二剛上文柔成賁之體止於文明賁者飾也五色不成謂之賁文彩雜也山下有火取象文明火土分象與離為飛伏世立元士六四諸侯在應陰柔居尊文柔當世素尚居高侯王無累易云賁于丘園束帛戔戔建始辛卯至丙申積筭起丙申至乙未周而復始五星從位起鎮星昴宿從位降己卯分氣候二十八土火木分陰陽相應為敵體上九積陽素尚全身遠害貴其正道起於潛至於用九陰陽升降通變隨時離入乾將之大畜次降六二中虛為三連入大畜卦
+  hash: sha256:aafcd57858321ce86dd48a7930dee70e43aeb9698b03173812cd5b8d0110df28
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_026-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:79fb681a55f3c7927390c6101aca7ce864ecec7bd937eee68cecc6448dd358cc

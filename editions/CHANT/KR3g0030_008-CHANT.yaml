@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大有乾下離上大有卦復本宮曰大有內象見乾是本位純金用事與坤為飛伏三公臨世應上九為宗廟建戊寅至癸未積筭起癸未土至壬午火周而復始五星從位起太陰軫宿從位降甲辰金土分象三十六候配陰陽升降六位相盪返復其道吉凶度數與乾卦同分六五陰柔為日照于四方象天行健少者為多之所宗六五為尊也易曰火在天上大有陰陽交錯萬物通焉陰退陽伏返本也乾象分盪八卦入大有終也乾生三男次入震宮八卦
+  hash: sha256:a4e5a6dd62538f7e7380f70f89ddb9212443732d05d907c16d9fe28cb4ec706d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_008-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:98a2a9fbd55893c2611b6ae16a6b18400ae524798138ac0d8338941e17ec79fe

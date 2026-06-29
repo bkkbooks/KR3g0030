@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/39
+seq: 39
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 需乾下坎上需雲上於天凝於陰而待於陽故曰需需者待也三陽務上而隔於六四路之險也坤之反覆適陽入陰陰陽交會運動陰雨積而凝滯於陽通乃合也與兌為飛伏游魂立世諸侯應初九元士建始甲辰至己酉積筭起己酉至戊申周而復始金土入乾坎五星從位起歲星氐宿從位降戊申分氣候三十六乾外見坎健而進隘在前也需與飲食爭於坎也陰陽相激勝負有倚反為不速敬終有慶陰陽漸消陽道行行反復其位不妄於陰坎降入歸魂水地比卦坤之歸魂也
+  hash: sha256:3c47427806ebd9c1728ed038d5a87303fe08437267520e247ddeb5f3d8975962
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_039-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:b229584dc5ad94a04a700f3b346acb79262e178087c482ac2cce983db081ac9d

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 困坎下兌上困澤入坎險水不通困外稟內剛陰道長也陰陽不順吉凶生也易云困于石據于蒺藜入于其宮不見其妻凶上下不應陰陽不交二氣不合五行配六位生悔吝四時休王金木交爭萬物之情在乎幾微與坎為飛伏初六元士為世九四諸侯在應建始丙辰至辛酉積算起辛酉至庚申周而復始土金入坎兌五星從位起太陰井宿從位起太陰降戊寅分氣候其數二十八坎象互見離火入兌金水見運配吉凶陰陽升降坎入坤陰氣凝盛降入萃
+  hash: sha256:05f0f7e26682e6a6c90f4ef06221b178c97e69d5e48282c8d24903863f10e78e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_058-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:4694f1f98bd6b1aa2e1bcc14fe41e1a33b1da2b7522b0ffa007c1c5dcbd685ce

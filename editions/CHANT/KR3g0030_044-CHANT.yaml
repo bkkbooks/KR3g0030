@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 益震下巽上益天地不交曰否六二陰上柔剛九四下降積陰故為益易曰損上益下雷動風行男下女上陽益陰君益於民之仰也互見坤坤道柔順又外見艮艮止陽益陰止於陽柔道行也與震為飛伏六三三公居世上九宗廟為應建始甲辰至己酉積筭起己酉至戊申周而復始土金入震巽五星從位起歲星計宿從位降庚辰分氣候二十八陰陽二木合金土配象四時運轉六位交分休廢旺生吉凶見乎動爻配日月星辰進退運氣升降復當何位適變於外陰入陽爻二象健而動屬於天地也陰陽相盪次降入天雷无妄卦
+  hash: sha256:35be3d4c4398585111605122b4f0bf6926ce69c58efdc044ec3974c987fc3a53
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_044-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:6678e40ab87dc8aeff49c5428c51764526cd921e44d9e6bc92a0a56096824e01

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/42
+seq: 42
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小畜乾下巽上小畜易云密雲不雨自我西郊小畜之義在於六四三陽連進於一危也外巽體陰畜道行也巽之初六陰盪陽氣感積陰不能固退復本位三連同往而不可見成於畜義外象明矣易云既雨既處也與乾為飛伏初九元士居世六四諸侯在應建始壬寅至丁未積筭起丁未至丙午周而復始木土入乾巽五星從位起太白尾宿從位降甲子分氣候其數二十八一陰居六四建子入陽宮推其休咎處吉凶剛健立陽爻陰凝在巽體易云輿說輹夫妻反目夏至起純陰陽爻位伏藏冬至陽爻動陰氣凝地陰陽升降以柔為剛見中虛文明積氣居內象次降入風火家人卦
+  hash: sha256:530e4a397a2d0f7c0f636b297c9fd015f7ad2900825dc06508d17af65fcd2ab3
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_042-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:c8144c9b45e7ae13722ef9c89e5f33546f088c1d793a163526034c55e9a20127

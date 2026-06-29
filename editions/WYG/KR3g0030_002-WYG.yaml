@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/WYG/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 京氏易傳
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-10 22:50:21.411396'
+  source:
+    repository: kanripo
+    path: KR3g0030/KR3g0030_002.txt
+hash: sha256:28da58b1efb44c485b17893ee4ef1c73526f2b2f23244bf24bab18655e5dcc50

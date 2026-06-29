@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/47
+seq: 47
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 頤震下艮上頤六位上下周而復始內外交互降入純陰地之氣萃在其中積純和之氣見浩然之道明矣土木配象吉凶從六虛與震為飛伏六四諸侯在世元士之初九見應建始辛亥至丙辰積算起丙辰至乙卯周而復始土木入艮震五星從位起太白虛宿從位降丙戌土分氣候三十六山下有雷止而動陰陽通變分氣候內外剛而積中柔升降游魂下居六四位特分復歸於本吉凶起於六四次環六位星宿躔次也極則反本降入歸魂山風蠱卦
+  hash: sha256:413cbd6daadab12910b6ba2349edf9355a2a76c652dafc8d27cd970fc625669c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_047-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:62db43657b211e335d8dea7cfe3f66d07b4b7ced7bad0b3b3ce3f3c4aee8052f

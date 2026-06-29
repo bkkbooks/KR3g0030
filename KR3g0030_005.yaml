@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 觀坤下巽上觀內象陰道已成威權在臣雖大觀在上而陰道浸長與巽為飛伏諸侯臨世反應元士而奉九五易云觀國之光利用賓于王建癸酉至戊寅陰陽交伏積算起戊寅至丁丑周而復始金土火互為體五星從位起熒惑星宿從位降辛未土木分氣二十八陰陽升降定吉凶成敗取六四至于九五成卦之終也易云觀我生又云風行地上列象分爻以定陰陽進退之道吉凶見矣地上見巽積陰凝盛降入于剝
+  hash: sha256:c9db752dfe2b75e84758d1094b077842bf5c8dc5a3cb04de75ea7d593b198d6a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_005-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:3c0b031a41176099d859c11f5151d8e40bf33a9d7275da9bc294e4ba61614378

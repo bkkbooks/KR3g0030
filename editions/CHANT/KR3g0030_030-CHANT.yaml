@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 履兌下乾上履天下有澤曰履得位吉失位凶素尚吉易云視履考祥其旋元吉與乾為飛伏六丙屬八卦九五得位為世身九二大夫合應象建始乙未至庚子積筭起庚子至乙亥五星從位起熒惑井宿從位降壬申分氣候金火入卦起於極數二十八陽多陰少宗少為貴得其所履則貴失其所履則賤易云眇能視跛能履吉凶取此文為準六位推遷積欠起筭數休王相破資益可定吉凶也升降反位歸復止於六四入陰為游魂中孚卦
+  hash: sha256:6dd5e4ed942c488682a783557ed0f65dfe79e8fe13b4b522622674e0e287e5bf
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_030-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:a81353b33fbf4d5f1890a52741397efdf683961c69966c11436bf731ce42c0e9

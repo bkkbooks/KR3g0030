@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/33
+seq: 33
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 坤坤下坤上坤純陰用事象配地屬土柔道光也陰凝感與乾相納臣奉君也易云黃裳元吉六二內卦陰處中臣道正也與乾為飛伏宗廟居世三公為應未免龍戰之災無成有終初六起履霜至於堅冰陰雖柔順氣亦堅剛為無邪氣也建始甲午至己亥積算起己亥至戊戌周而復始五星從位起太陰西南方之卦星宿從位降癸酉金分氣候三十六陰中有陽氣積萬象故曰陰中陰陰陽二氣天地相接人事吉凶見乎其象六位適變八卦分焉陰雖虛納于陽位稱實升降反復不能久處千變萬化故稱乎易易者變也陰極則陽來陰消則陽長衰則退盛則戰易云上六龍戰于野其血玄黃陽屬陽蕩陰坤內卦初六適變入陽曰震陰盛陽微漸來之義故稱復次降陽入地雷復卦
+  hash: sha256:6c1ffda8fcdacc6f151afa7d125f6f95545c3a587eb8fe190bcc856b37e3213a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_033-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:810269618feed2384fdda2d635f701b15ccf3d03ea1887382e6ef9d0ad0cd7f0

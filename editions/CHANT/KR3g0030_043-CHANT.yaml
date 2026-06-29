@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/43
+seq: 43
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 家人離下巽上家人乾剛俱變文明內外相應陰陽得位居中履正火上見風家人之象閑邪存誠嗃嗃得中互體見文明家道明也內平遇坎險象家人難也酌中之義在於六二與離為飛伏建始癸卯至戊申積筭起戊申至丁未金土入離巽大夫居世應九五立君位五星從位起太陰箕宿從位降己丑分氣候其數三十六火木分形陰陽得位內外相資二氣相合君君臣臣父父子子兄兄弟弟易曰家人嗃嗃父子嘻嘻治家之道分於此也吉凶之義配五行進退文明運動變化之象九三適陰入震風為雷合曰益次降風雷益卦
+  hash: sha256:bc788180b414b6bdca8474f04dccd85b41ad9cd21d5fca84fcba9f26b9538d19
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_043-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:5296365787eeae430e308b2c79bddbc637a7d1c22983137ce5eb6f15c128bca6

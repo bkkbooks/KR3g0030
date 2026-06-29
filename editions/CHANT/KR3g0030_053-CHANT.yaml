@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/53
+seq: 53
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蒙坎下艮上蒙積陽居陰止於坎陷養純正素居中得位易云山下出泉蒙二象摽正天下通也擊暗釋疑陽道行也內實外正暗得明陰附於陽稚道亨也故曰蒙養正與艮為飛伏諸侯立世元士為應建始壬子至丁巳積筭起丁巳至丙辰周而復始火土入艮坎五星從位起太陰胃宿從位降丙戌土分氣候三十六山下見水畜聚居中分流萬派六位不居吉凶適變水土分也陰陽進退歲時物也六五陽中積陰入巽見陰中陽二氣相盪不可盈望次降入風水渙卦
+  hash: sha256:3db5be084a7bf2ada32057347b0afef9320e10f02f8f9bf7c3c5254ffb5945e8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_053-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:a4d76281287d15d4ed8c0a316a32bb93244e6506a83a72db0c12a65c67c0928b

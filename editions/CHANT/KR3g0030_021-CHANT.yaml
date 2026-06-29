@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/21
+seq: 21
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 革離下兌上革二陰雖交志不相合體積陰柔爻象剛健可以革變兌上離下務上下積陰變改之兆成物之體故曰革易云君子豹變小人革面與兌為飛伏諸侯當世見元士九五六二為履正位天地革變人事隨而更也建始丁亥至壬辰水土配位積筭起壬辰至辛卯周而復始五星從位起鎮星室宿從位降丁亥分氣候三十六其數起元首上金下火金積水而為器火變生而為熟生熟稟氣於陰陽革之於物物亦化焉易云巳日乃孚陰陽更始動以見吉凶動以柔當位剛會之光大革變於豐
+  hash: sha256:c48b8a7c675029a962fd796e93a8088da6efe338c1909ed99b993a5bbd431bd5
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_021-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:39a41f173a0948f3dcccf7b459eeb9b39a377177b6c42e9c1561c8946bb117df

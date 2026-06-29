@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/41
+seq: 41
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 巽巽下巽上巽陽中積陰而巽順風從穴入於物號令齊順天地明也內外稟於一陰順於天地道也聲聞於外遠彰柔順陰陽升降柔於剛也本於堅剛陰來又柔東南向明齊肅陰陽與震為飛伏宗廟居世三公在應建始辛丑至丙午積筭起丙午至乙巳周而復始分氣候其數三十六陰氣起陽陽順於陰陰陽和柔升降得位剛柔分也陰不可盈晷刻傾也初六適變陽來陰退健道行也三陽務進外陰陽也適變於內外未從也次降陰交於陽九為小畜卦
+  hash: sha256:99cedbb8d19afa3ee44859860f4aebb70936cd4df4f9f21c0b5621df6cec7208
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_041-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:1b90d52a9169a7abc80b260c6750ffb41670873b95552e1abde5fd8324aea118

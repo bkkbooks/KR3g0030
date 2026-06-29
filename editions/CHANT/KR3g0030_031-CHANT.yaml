@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/31
+seq: 31
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 中孚兌下巽上中孚陰陽變動六位周匝反及游魂之卦互體見民止於信義與乾為飛伏艮道革變升降各稟正性六四諸侯立世應初九元士九五履信九二反應氣候相合內外相敵建始庚子至乙巳積筭起乙巳至甲辰周而復始五星從位起鎮星鬼宿從位降辛未分氣候三十六風與澤二氣相合巽而說信及於物物亦順焉易云信及豚魚兌入艮六三入陽內二陽歸陰陰陽交互復本曰歸魂次降歸魂風山漸卦
+  hash: sha256:2e2176f3b8d16a72145a3c173a2b31235f21a98bc5e177d409c17a55df1dda17
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_031-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:f2a9cbb5cc6088b535a1e9ac9e7ee2d3b9b58e0bf99ff2d0c14806bc4e9f7865

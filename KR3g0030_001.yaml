@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乾乾下乾上乾純陽用事象配天屬金與坤為飛伏居世易云用九見群龍無首吉九三三公為應肖乾乾夕惕之憂甲壬配外內二象積算起己巳火至戊辰土周而復始五星從位起鎮星參宿從位起壬戍建子起潛龍建巳至極主亢位配於人事為首為君父於類為馬為龍降五行頒六位居西北之分野陰陽相戰之地易云戰于乾天六位地六氣六象六包四象分萬物陰陽無差升降有等人事吉凶見乎其象造化分乎有無六位純陽陰象在中陽為君陰為臣陽為民陰為事陽實陰虛明暗之象陰陽可知水配位為福德木入金鄉居寶貝土臨內象為父母火來四上嫌相敵金入金鄉木漸微宗廟上建戌亥乾本位陽極陰生八卦例諸
+  hash: sha256:a1710a45aeec1e83354b812b48082bd70108b57a59c2fb441e0e6715f47f8bff
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_001-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:2a4bda99fb4c58d4f37afff203c1abdb7b4e648f36b36124c1e4ff1591dee3e3

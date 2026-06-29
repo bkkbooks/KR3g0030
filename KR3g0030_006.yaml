@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 剝坤下艮上剝柔長剛減天地盈虛體象金為本隨時運變水土用事成剝之義出於上九易云碩果不食君子得輿小人剝廬與艮為飛伏天子治世反應大夫建甲戌至己卯陰陽定候積算起己卯木至戊寅木周而復始純土配金用事五星從位起鎮星張宿從位降丙子金土分氣三十六易象云山附於地剝君子俟時不可苟變存身避害與時消息春夏始生天氣盛大秋冬嚴殺天氣消滅故當剝道已成陰盛不可逆陽息陰專升降六爻反為游魂蕩入晉
+  hash: sha256:a85aa827643f0d7f59b61e557f00a196ec65dae1bc98eb5b700fd154ff9889a1
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_006-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:1236c6d190628e525e5c9e858b2c84f390492bb5916e8efe85dfd09a658c473d

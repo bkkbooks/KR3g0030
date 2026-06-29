@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遯艮下乾上遯陰爻用事陰盪陽遯金土見象山在天下為遯陰來陽退也小人君子污隆契斯義也易云遯世無悶與艮為飛伏大夫居世建辛未為月六二得應與君位遇建焉臣事君全身遠害建辛未至丙子陰陽遯去終而伏位積筭起丙子至乙亥周而復始陽消陰長無專於敗繫云能消息者必專者敗五星從位起太陰鬼宿入位降丙辰配於人事為背為手於類為狗為山石內外升降陰陽分數二十八候土入金為緩積陽為天積陰為地山所地高峻逼通於天是陰長陽消降入否
+  hash: sha256:9dd7df07f6358a41a3152ff0f1b35c1704a3f3df5213e42546b7e528d447337d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_003-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:f6efcde65dfc0f4b3312a654032469cc1b044932d98e64df0ae4274a75b00ba0

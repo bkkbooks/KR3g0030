@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 損兌下艮上損澤在山下卑險於山山高處上損澤益山成高之義在於六三在臣之道奉君立誠易云損下益上與兌為飛伏三公居世宗廟建始癸巳至戊戌積筭起戊戌至丁酉周而復始五星從位起太陰觜宿從位降丁丑土星入卦配吉凶陰陽相盪位不居六爻有吉凶四時變更不可執一以為規分氣候二十八陰陽升降次艮入離見睽之象損益六爻剛長陰次入火澤睽卦
+  hash: sha256:73aba5f22abd0223364105df6f555371bc2df3a592d76cfd55df029c4bfc69f3
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_028-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:203b641670fbdd6a4b2b0d01c8021479bd1e3c1d9f47a2697a26080a843bfc53

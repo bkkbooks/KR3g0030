@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 解坎下震上解陰陽積氣聚散以時內險外動必散易云解者散也解也品彙甲拆雷雨交作積氣運動天地剖判成卦之義在於九二與坎為飛伏立大夫於世為人而六五降應委權命於庶品建戊寅至癸未推吉凶於陰陽定運數於歲時積筭起癸未至壬午周而復始五星從位起鎮星氏宿從位降戊辰木下見水動而險陰陽會散萬物通焉升降屬陽盪陰以陽為尊尊者高而卑者低變六三為九三恆卦分氣候定數極位於三十六變坎入巽居內象為雷風運動鼓吹萬物謂之恆
+  hash: sha256:b0b8fe183b95e5d689f2dd430241952ffd4e89959fa461a7c881986441eebb4a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_011-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:c55518ecca848cc8459f87139c247df4b933cdb6599198618a0729040914924d

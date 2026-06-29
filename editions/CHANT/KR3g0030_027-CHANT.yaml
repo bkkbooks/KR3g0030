@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/27
+seq: 27
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大畜乾下艮上大畜陽長陰消積氣凝盛外止內健二陰猶盛成于畜義易云既處畜消時行陽未可進取於下卦全其健道君子以時順其吉凶與乾為飛伏建始壬辰至丁酉積筭起丁酉至丙申周而復始五星從位起太白畢宿從位降甲寅九二大夫應世應六五為至尊陰陽相應以柔居尊為畜之主分氣候二十八山下有乾金土相資陽進陰止積雨潤下畜道光也乾象內進君道行也吉凶升降陰陽得位二氣相應陽上薄陰陰道凝結上於陽長為雨反下九居高位極於畜道反陽為陰入于兌象六三應上九上有陽九反應六三成于損道次降損卦
+  hash: sha256:4b7347b74e85ce76377fb1ea1d2faa6139cfa90cd346648cd9d7ca235e1262b1
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_027-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:6e73418945baf41d3cfc4ac73d3377f91d99a2e3812dc553384b1a4adf5cef3f

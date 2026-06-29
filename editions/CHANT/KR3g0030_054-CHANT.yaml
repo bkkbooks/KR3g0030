@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 渙坎下巽上渙水上見木渙然而合內外健而順納實居中正互見動而上陰陽二象資而益也風行水上處險非溺也九五履正思順非偪也與巽為飛伏九五居尊大夫應建始癸丑至戊午積筭起戊午至丁巳周而復始火土入坎巽五星從位起歲星昴宿從位降辛巳火分氣候其數二十八內卦坎中滿一陽居中積實于內風在外行虛聲外順吉凶之位攷乎四序盛衰之道在乎機要陰陽死于位生于時死于時生于位進退不可詰正盛則衰來正衰則盛來易曰積善之家必有餘慶積不善之家必有餘殃八卦始終六虛反復游魂生巽入乾為天水訟卦
+  hash: sha256:f8013cbab99ad9b1f1eed8e0009a2100a2615fc81060e49cb4f47698f2b3bf9f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_054-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:caf4a4be9d2b312e2ed922f3112113c8bf7fd192c26eceb12b657f47446271ef

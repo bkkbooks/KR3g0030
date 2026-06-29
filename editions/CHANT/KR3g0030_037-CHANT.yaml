@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3g0030/chant/v1/juan/37
+seq: 37
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大壯乾下震上大壯內外二象動而健陽勝陰而為壯易曰羝羊觸藩羸其角進退難也壯不可極極則敗物不可極極則反故曰君子用罔小人用壯與震為飛伏九四諸侯之世初九元士在應建始戊戌至癸卯積筭起癸卯至壬寅五星從位起太白角宿從位降庚午分氣候三十六雷在天上健而動陽升陰降陽來盪陰吉凶隨爻著于四時九四庚午火之位入坤為卦之本起于子滅于寅陰陽進退六位不居周流六虛外象震入兌為陰悅適爻為剛長次降入夬陽決陰之象入澤天夬卦
+  hash: sha256:a87dd42eda5567f8593b0cc48c1ba594fc22029a6c81d81b2122f1b31da9fb24
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3g0030_CHANT_037-1a.1-h}
+metadata:
+  title: 京氏易傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3g0030.xml
+hash: sha256:98d8cd6df7b9738f8370555dae09402e59921c3240e76cc2ac83a3041fbb0fe6
