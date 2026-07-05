@@ -20,7 +20,6 @@ markers:
   body:
   - {type: punctuation, offset: 0, content: ䷠, id: KR3g0030_CHANT_003-bkkpn1}
   - {type: punctuation, offset: 0, content: 〈, id: KR3g0030_CHANT_003-bkkpn2}
-  - {type: substitution, offset: 0, original: 遯, replacement: 遁, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2204}}
   - {type: punctuation, offset: 1, content: 〉, id: KR3g0030_CHANT_003-bkkpn3}
   - {type: variant, offset: 1, length: 0, content: '', WYG: 天山遯卦}
   - {type: variant, offset: 3, length: 4, content: 乾上遯陰, SBCK: 吳鬱林太守陸績註明兵部侍郎范欽訂夫易者象也爻者效也聖人所以仰觀俯察象天地日月星辰草木萬物順之則和逆之則亂夫細不可窮深不可極故揲蓍布}
@@ -30,7 +29,6 @@ markers:
   - {type: 'tls:seg', offset: 5, content: '', id: KR3g0030_CHANT_003-1a.2}
   - {type: punctuation, offset: 5, content: ䷠, id: KR3g0030_CHANT_003-bkkpn4}
   - {type: punctuation, offset: 5, content: 《, id: KR3g0030_CHANT_003-bkkpn5}
-  - {type: substitution, offset: 5, original: 遯, replacement: 遁, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2204}}
   - {type: punctuation, offset: 6, content: 》, id: KR3g0030_CHANT_003-bkkpn6}
   - {type: punctuation, offset: 6, content: 。, id: KR3g0030_CHANT_003-bkkpn7}
   - {type: 'tls:seg', offset: 6, content: '', id: KR3g0030_CHANT_003-1a.3}
@@ -49,13 +47,11 @@ markers:
   - {type: page-break, offset: 10, content: '', id: KR3g0030_SBCK_003-4b}
   - {type: variant, offset: 10, length: 1, content: 陰, WYG: 隂}
   - {type: variant, offset: 10, length: 1, content: 陰, krp: 畢矣分天地乾坤之象益之以甲乙壬癸乾坤二分天地隂陽之木故分甲乙壬癸隂陽之終始震巽之象配庚辛庚陽入震辛隂入巽坎離之象配戊巳戊陽入坎已隂入離艮兌之象配丙丁丙陽入艮丁隂入兌八卦分隂陽六位五行光明四通變易立節天地若不變易不能通氣五行迭終四時更廢變動不居周流六虛上下無常剛柔相易不可以爲典要惟變所適吉凶共列于位進退明乎機要易之變化六爻不可據以隨時所占周禮太卜一曰連山二曰歸藏三曰周易初爲陽二爲隂三爲陽四爲隂五爲陽六爲隂一三五七九陽之數二四六八十隂之數隂主賤陽主貴隂從午陽從子子午分行子左行午右行左右凶吉吉凶之道子午分時立春正月節在寅坎卦初六立秋同用雨水正月中在丑巽卦初六處暑同用驚蟄二月節在子震卦初九白露同用春分二月中在亥兌卦九四春秋分同用清明三月節在戍艮卦六四寒露同用榖雨三月中在酉離卦九四霜降同用立夏四月節在申坎卦六四立冬同月小滿四月中在未巽卦六四小雪同用芒種五月節在午乾宫九四大雪同用夏至五月中在巳兌宫初九冬至同用小暑六月節在辰艮宫初六小寒同用大暑六月中在卯離宫初九大寒同用孔子易云有四易一世二世爲地易三世四世爲人易五世六世爲天易游魂歸魂爲鬼易八卦鬼爲繫爻財爲制爻天地爲義爻天地即父母也福德爲寳爻福德即子孫也同氣爲專爻兄弟爻也龍德十一月在子在坎卦左行虎刑五月午在離卦右行甲乙庚辛天官申酉地官丙丁壬癸天官亥子地官戊己甲乙天官寅卯地官壬癸戊已天官辰戍地官靜爲悔發爲貞貞爲本悔爲末初爻上二爻中三爻下三月之數以成一月初爻三日二爻三日三爻三日名九日餘有一日名曰閏餘初爻十日爲上旬二爻十日爲中旬三爻十日爲下旬三旬三十積旬成月積月成年八八六十四卦分六十四卦配三百八十四爻成萬一千五百二十策定氣候二十四考五行於運命人事天道日月星辰局於指掌吉凶見乎其位繫乎吉凶悔吝生乎動寅中有生火亥中有生木巳中有生金亦云上生之位申中有生水丑中有死金戍中有死火未中有死木辰中有死水土兼於中建子陽生建午隂生二氣相衝吉凶明矣積筭隨卦起宫乾坤震巽坎離艮兌八卦相}
-  - {type: substitution, offset: 11, original: 盪, replacement: 蕩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0674}}
   - {type: variant, offset: 12, length: 0, content: '', SBCK: 二氣}
   - {type: variant, offset: 12, length: 0, content: '', krp: 二氣}
   - {type: variant, offset: 13, length: 3, content: 遯金土, SBCK: 入隂隂入陽二氣交互不停故曰生生之謂易天地之内無不通也乾起巳坤起亥震起午巽起辰坎起子離起丑艮起寅兌起於六十四卦遇王則吉廢則凶衝則破刑則敗死則危生則榮攷其義理其可通乎分三十爲中六十爲上三十爲下總一百二十通隂陽之數也新新不停生生相續故淡泊不失其所􅃀然示人隂陽運行一寒一暑五行互用一吉一凶以通神明之德以􅁼萬物之情故易所以㫁天下之理定之以人倫而明王道八卦建五氣立五常法象乾坤順於隂陽以正君臣父子之義故易曰元亨利貞夫作易所以垂教教之所􅀍本􅀍於有無且易者包備有無有吉則有凶有凶則有吉生吉凶之義始於五行終於八卦從無入有見灾於星辰也從有入無}
   - {type: page-break, offset: 13, content: '', id: KR3g0030_SBCK_003-5a}
   - {type: variant, offset: 13, length: 3, content: 遯金土, krp: 入隂隂入陽二氣交互不停故曰生生之謂易天地之内無不通也乾起巳坤起亥震起午巽起辰坎起子離起丑艮起寅兌起於六十四卦遇王則吉廢則凶衝則破刑則敗死則危生則榮攷其義理其可通乎分三十爲中六十爲上三十爲下總一百二十通隂陽之數也新新不停生生相續故淡泊不失其所確然示人隂陽運行一寒一暑五行互用一吉一凶以通神明之德以類萬物之情故易所以㫁天下之理定之以人倫而明王道八卦建五氣立五常法象乾坤順於隂陽以正君臣父子之義故易曰元亨利貞夫作易所以垂教教之所𬒳本𬒳於有無且易者包備有無有吉則有凶有凶則有吉生吉凶之義始於五行終於八卦從無入有見灾於星辰也從有入無}
-  - {type: substitution, offset: 13, original: 遯, replacement: 遁, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2204}}
   - {type: punctuation, offset: 14, content: 。, id: KR3g0030_CHANT_003-bkkpn9}
   - {type: 'tls:seg', offset: 14, content: '', id: KR3g0030_CHANT_003-1a.5}
   - {type: punctuation, offset: 18, content: ，, id: KR3g0030_CHANT_003-bkkpn10}
@@ -67,7 +63,6 @@ markers:
   - {type: variant, offset: 21, length: 5, content: 下為遯陰來, SBCK: 地隂}
   - {type: variant, offset: 21, length: 5, content: 下為遯陰來, krp: 地隂}
   - {type: punctuation, offset: 23, content: 《, id: KR3g0030_CHANT_003-bkkpn11}
-  - {type: substitution, offset: 23, original: 遯, replacement: 遁, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2204}}
   - {type: punctuation, offset: 24, content: 》, id: KR3g0030_CHANT_003-bkkpn12}
   - {type: punctuation, offset: 24, content: ，, id: KR3g0030_CHANT_003-bkkpn13}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3g0030_CHANT_003-1a.7}
@@ -91,7 +86,6 @@ markers:
   - {type: punctuation, offset: 41, content: ：, id: KR3g0030_CHANT_003-bkkpn19}
   - {type: 'tls:seg', offset: 41, content: '', id: KR3g0030_CHANT_003-1a.11}
   - {type: punctuation, offset: 41, content: 「, id: KR3g0030_CHANT_003-bkkpn20}
-  - {type: substitution, offset: 41, original: 遯, replacement: 遁, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2204}}
   - {type: punctuation, offset: 45, content: 。, id: KR3g0030_CHANT_003-bkkpn21}
   - {type: punctuation, offset: 45, content: 」, id: KR3g0030_CHANT_003-bkkpn22}
   - {type: 'tls:seg', offset: 45, content: '', id: KR3g0030_CHANT_003-1a.12}
@@ -120,14 +114,12 @@ markers:
   - {type: punctuation, offset: 82, content: ，, id: KR3g0030_CHANT_003-bkkpn32}
   - {type: 'tls:seg', offset: 82, content: '', id: KR3g0030_CHANT_003-1a.20}
   - {type: variant, offset: 82, length: 1, content: 陰, WYG: 隂}
-  - {type: substitution, offset: 84, original: 遯, replacement: 遁, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2204}}
   - {type: punctuation, offset: 86, content: ，, id: KR3g0030_CHANT_003-bkkpn33}
   - {type: 'tls:seg', offset: 86, content: '', id: KR3g0030_CHANT_003-1a.21}
   - {type: punctuation, offset: 90, content: 。, id: KR3g0030_CHANT_003-bkkpn34}
   - {type: 'tls:seg', offset: 90, content: '', id: KR3g0030_CHANT_003-1a.22}
   - {type: variant, offset: 90, length: 0, content: '', WYG: 從六月至十一月也}
   - {type: variant, offset: 91, length: 1, content: 筭, WYG: 算}
-  - {type: substitution, offset: 91, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
   - {type: variant, offset: 92, length: 2, content: 起丙, SBCK: 易傳三卷雜占條例法一卷或共題易傳四卷而名皆與古不同今所謂京氏易傳者或題曰京氏積筭易傳者疑隋唐志之錯卦是也雜占條例法者疑唐志之逆刺占災異是也錯卦在隋七卷唐八卷所謂積筭雜逆刺占灾異十二卷是也至唐逆刺三卷而亡其八卷元祐八年高麗進書有京氏周易占十卷疑隋周易占十二卷是也是古易家有書而無傳者多矣京氏之書幸而與存者纔十之一尚何離夫師說邪景迂嘗曰余自元豐壬戍偶脫去舉}
   - {type: page-break, offset: 92, content: '', id: KR3g0030_SBCK_003-6b}
   - {type: variant, offset: 92, length: 2, content: 起丙, krp: 易傳三卷雜占條例法一卷或共題易傳四卷而名皆與古不同今所謂京氏易傳者或題曰京氏積筭易傳者疑隋唐志之錯卦是也雜占條例法者疑唐志之逆刺占災異是也錯卦在隋七卷唐八卷所謂積筭雜逆刺占灾異十二卷是也至唐逆刺三卷而亡其八卷元祐八年高麗進書有京氏周易占十卷疑隋周易占十二卷是也是古易家有書而無傳者多矣京氏之書幸而與存者纔十之一尚何離夫師說邪景迂嘗曰余自元豐壬戍偶脫去舉}
@@ -339,4 +331,4 @@ markers:
   - {type: page-break, offset: 191, content: '', id: KR3g0030_WYG_003-9b, image: WYG0808/WYG0808-0469d.png}
   - {type: variant, offset: 191, length: 0, content: '', krp: 觀震豫解恒升剥晉大有井大過隨坎節屯旣濟革艮賁大畜損豐明夷師睽離中孚漸坤復臨泰大壯巽小畜家人益无妄夬需比噬嗑頥蠱離旅鼎未濟䝉兌困萃咸蹇渙訟同人謙小過歸妹京氏易傳卷下終}
   back: []
-hash: sha256:8e1df3e9bf8d30eac08bd942fa7a51f7df740b1baaaef6e28a45d6a26e1d76ce
+hash: sha256:2d2dca8af8fef5abad1f1f477c7dbd37233b49a54c5dc95aafba68e98271f084

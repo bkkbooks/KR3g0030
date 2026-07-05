@@ -47,7 +47,6 @@ markers:
   - {type: 'tls:seg', offset: 72, content: '', id: KR3g0030_CHANT_031-1a.17}
   - {type: punctuation, offset: 79, content: ，, id: KR3g0030_CHANT_031-bkkpn25}
   - {type: 'tls:seg', offset: 79, content: '', id: KR3g0030_CHANT_031-1a.18}
-  - {type: substitution, offset: 80, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
   - {type: punctuation, offset: 87, content: ，, id: KR3g0030_CHANT_031-bkkpn26}
   - {type: 'tls:seg', offset: 87, content: '', id: KR3g0030_CHANT_031-1a.19}
   - {type: punctuation, offset: 91, content: ，, id: KR3g0030_CHANT_031-bkkpn27}
@@ -93,4 +92,4 @@ markers:
   - {type: punctuation, offset: 164, content: 。, id: KR3g0030_CHANT_031-bkkpn52}
   - {type: xml-element, offset: 164, content: '', id: KR3g0030_CHANT_031-bkkxmlele2}
   back: []
-hash: sha256:3490ef72a570372714cd9bc2d1ce9f3f44c839ffdc6f04c8a0c1dba2224f24eb
+hash: sha256:8dac5856b8e6bbce352ed0a8026dff010f363f0284f169370830153405befd14

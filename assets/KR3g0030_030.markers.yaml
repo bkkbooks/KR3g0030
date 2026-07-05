@@ -50,7 +50,6 @@ markers:
   - {type: 'tls:seg', offset: 55, content: '', id: KR3g0030_CHANT_030-1a.15}
   - {type: punctuation, offset: 62, content: ，, id: KR3g0030_CHANT_030-bkkpn30}
   - {type: 'tls:seg', offset: 62, content: '', id: KR3g0030_CHANT_030-1a.16}
-  - {type: substitution, offset: 63, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
   - {type: punctuation, offset: 70, content: ，, id: KR3g0030_CHANT_030-bkkpn31}
   - {type: 'tls:seg', offset: 70, content: '', id: KR3g0030_CHANT_030-1a.17}
   - {type: punctuation, offset: 77, content: ，, id: KR3g0030_CHANT_030-bkkpn32}
@@ -83,8 +82,6 @@ markers:
   - {type: 'tls:seg', offset: 133, content: '', id: KR3g0030_CHANT_030-1a.29}
   - {type: punctuation, offset: 137, content: ，, id: KR3g0030_CHANT_030-bkkpn48}
   - {type: 'tls:seg', offset: 137, content: '', id: KR3g0030_CHANT_030-1a.30}
-  - {type: substitution, offset: 138, original: 欠, replacement: 缺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4372}}
-  - {type: substitution, offset: 140, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
   - {type: punctuation, offset: 142, content: ，, id: KR3g0030_CHANT_030-bkkpn49}
   - {type: 'tls:seg', offset: 142, content: '', id: KR3g0030_CHANT_030-1a.31}
   - {type: punctuation, offset: 146, content: ，, id: KR3g0030_CHANT_030-bkkpn50}
@@ -100,4 +97,4 @@ markers:
   - {type: punctuation, offset: 171, content: 。, id: KR3g0030_CHANT_030-bkkpn56}
   - {type: xml-element, offset: 171, content: '', id: KR3g0030_CHANT_030-bkkxmlele2}
   back: []
-hash: sha256:9935552e61f3df4cc257322d0142884b4fb646f4fd3238b880a82f7daabe1aab
+hash: sha256:2b7eda66d2316838f2c29b8e8395882fa3a83b938cce1c5fd280e9f519851328
