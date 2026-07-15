@@ -109,6 +109,7 @@ markers:
   - {type: variant, offset: 82, length: 2, content: 乙亥, krp: 癸卯寒露至春分}
   - {type: punctuation, offset: 84, content: ，, id: KR3g0030_CHANT_002-bkkpn35}
   - {type: 'tls:seg', offset: 84, content: '', id: KR3g0030_CHANT_002-1a.21}
+  - {type: substitution, offset: 85, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   - {type: variant, offset: 87, length: 3, content: 乙亥水, SBCK: 癸卯}
   - {type: variant, offset: 87, length: 3, content: 乙亥水, krp: 癸卯}
   - {type: punctuation, offset: 90, content: ，, id: KR3g0030_CHANT_002-bkkpn36}
@@ -257,6 +258,7 @@ markers:
   - {type: variant, offset: 204, length: 5, content: 以時消息陰, krp: 至六五位返入游魂變歸六四}
   - {type: punctuation, offset: 208, content: 。, id: KR3g0030_CHANT_002-bkkpn79}
   - {type: 'tls:seg', offset: 208, content: '', id: KR3g0030_CHANT_002-1a.48}
+  - {type: substitution, offset: 209, original: 盪, replacement: 蕩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16867}}
   - {type: variant, offset: 210, length: 0, content: '', SBCK: 六四一爻入}
   - {type: variant, offset: 210, length: 0, content: '', krp: 六四一爻入}
   - {type: punctuation, offset: 211, content: ，, id: KR3g0030_CHANT_002-bkkpn80}
@@ -270,9 +272,10 @@ markers:
   - {type: page-break, offset: 213, content: '', id: KR3g0030_SBCK_002-25b}
   - {type: page-break, offset: 213, content: '', id: KR3g0030_SBCK_002-26a}
   - {type: variant, offset: 213, length: 1, content: 遯, krp: 雷山小過卦艮下震上小過六四適變血脉通也陽入隂隂入陽二氣降内外象上下返應二剛相適九三九四土木入卦分於二象内艮外震雷處高山亢之極也内柔無正性危及於外易曰飛鳥遺之音不宜上宜下與坤爲飛伏庚午火癸丑土反歸九四諸侯立世元士見應建始乙丑至庚午大寒芒種積筭起庚午至巳巳周而復始土火入震艮外土火二象入兌宫五星從位起太隂水星入卦游䰟翼宿從位降庚午二十八宿分翼宿入兌宫游䰟小過卦九四庚午火上分氣候三十六積筭三十六數六位吉凶木下見土二陽畜隂六位相刑吉位生也上升下隂陽反應各私其黨六爻適變隂道悖也升降進退其道同也之艮入兌隂納與陽也反復其位次降入歸魂雷澤歸妹卦兌下震上歸妹隂復於本悅動於外二氣不交故曰歸妹歸者嫁也互見離坎同於未濟適陽從隂剛從外至九四至剛六三悅柔返無其應凶並羊渉卦之終長何吉也與艮爲飛伏丁丑土丙申金三公歸魂之世上六宗廟見應建始甲子至己巳大雪小滿積筭起己巳至戊辰周而復始水土入震兌分水土二象入兌宫五星從位起歲星木星東方入兌宫歸䰟軫宿從位降丁丑土二十八宿分軫宿入兌歸䰟六二丁丑土上分吉凶起筭分氣候三十八積筭起三十八數六位推五行數吉凶雷居澤上剛氣亢盛隂陽不合進退危也震長男兌少女少女匹長男氣非合也吉凶在上六處於動極適變位定時不可易之道也五行考象非合斯義隂陽運動適當何爻或隂或陽或柔或剛升降六位非取一也兌歸䰟配六十四卦之終也京氏易傳卷中}
+  - {type: substitution, offset: 213, original: 遯, replacement: 遁, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18484}}
   - {type: punctuation, offset: 214, content: 》, id: KR3g0030_CHANT_002-bkkpn82}
   - {type: punctuation, offset: 214, content: 。, id: KR3g0030_CHANT_002-bkkpn83}
   - {type: xml-element, offset: 214, content: '', id: KR3g0030_CHANT_002-bkkxmlele2}
   - {type: page-break, offset: 214, content: '', id: KR3g0030_SBCK_002-26b}
   back: []
-hash: sha256:aa66d553b6919f1b752964768ed3f6da7678e7a8c992460e7a205b5de8012f3f
+hash: sha256:c9331b7ebfd75cad972c442c544b8ba3d985db62ec3a9f6a831ed3f52a2faf26
